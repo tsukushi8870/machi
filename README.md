@@ -1,4 +1,4 @@
-# machi[街の紹介.html](https://github.com/user-attachments/files/22691145/default.html)
+
 <meta name="robots" content="noindex">
 <!doctype html>
 <html lang="ja">
